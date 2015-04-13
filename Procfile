@@ -1,1 +1,1 @@
-web: node app.js drop=false
+web: node app.js drop=true
