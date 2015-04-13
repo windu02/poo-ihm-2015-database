@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#heroku login
+heroku login
 heroku ps:scale web=0
 commitMess=`date +"%D %T"`
 git add .
